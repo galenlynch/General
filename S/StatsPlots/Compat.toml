@@ -27,9 +27,15 @@ RecipesBase = "0.5-0.6"
 Widgets = "0.5-0.6"
 julia = "1"
 
+["0.12"]
+julia = "1.0.0-1"
+
 ["0.12-0"]
 Observables = "0.2.2-*"
 Plots = "0.25.0-*"
 RecipesBase = "0.6.0-*"
 Widgets = "0.5.0-*"
-julia = "1.0.0-1"
+
+["0.13-0"]
+MultivariateStats = "0.7.0-*"
+julia = "1.0.0-*"
