@@ -5,9 +5,9 @@ Polynomials = "f27b6e38-b328-58d1-80ce-0feddd5e7a45"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+AbstractFFTs = "621f4979-c628-5d54-868e-fcf4e3e8185c"
 
 ["0-0.5"]
-AbstractFFTs = "621f4979-c628-5d54-868e-fcf4e3e8185c"
 Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
 
 ["0.6-0"]
